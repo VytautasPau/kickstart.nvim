@@ -591,7 +591,7 @@ require('lazy').setup({
                   enabled = false,
                 },
                 pyflakes = {
-                  enabled = false,
+                  enabled = true,
                 },
                 autopep8 = {
                   enabled = false,
